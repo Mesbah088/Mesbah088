@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>Md Mydul Islam</strong><br>
+  <strong>Md Mahfujur Rahman Mesbah</strong><br>
   💻 Full-Stack Developer from Bangladesh 🇧🇩<br>
-  🎓 BSc in Computer Science & Engineering | Dhaka University Technology Unit<br>
+  🎓 BSc in Computer Science & Engineering | University of Dhaka<br>
   🏢 Web Developer Intern at <strong>UnikForce</strong><br>
   🚀 Passionate about building scalable <strong>SaaS applications</strong> using <strong>React.js, Next.js, Node.js, and MongoDB</strong>.
 </p>
@@ -35,7 +35,7 @@
 ### 🏆 Solo Projects
 | Name                            | Description                                                              | GitHub                                                 | Live Demo                                     |
 |---------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|
-| 🚲 Bicycle Booking Website  | Browse and book bicycles online with detailed listings & filters | [GitHub](https://github.com/mydul62/bycle_client) | [Live Demo](https://bycle-zone.vercel.app/) |
+| Blood Connect Website  | Blood connect website for any emergency moment in our life | [GitHub]( https://github.com/Mesbah088/Blood-donate-clienrt) | [Live Demo](https://blood-connect01.netlify.app) |
 | 🏥 Laboratory Management | Full-featured diagnostic platform with secure authentication & admin roles | [GitHub](https://github.com/mydul62/labratory) | [Live Demo](https://labratory.netlify.app/) |
 
 ---
